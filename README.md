@@ -1,7 +1,7 @@
 # Chicago-Traffic-Crash-Prediction-and-Analysis
 ## BUSINESS UNDERSTANDING
 ## Problem Statement
-Traffic accidents are a mojor concern in Chicago. Understanding the conditions that lead to severe crashes will help the Vehicle safety board.
+Traffic accidents are a major concern in Chicago. Understanding the conditions that lead to severe crashes will help the Vehicle safety board.
 This project aims to build a classification model that predicts whether a car crash will result in injuries based on environmental factors or other factors. The insights from this model will help identify high risk conditions and implement preventive measures to imrove road safety.
 
 ## Stakeholders
@@ -10,7 +10,7 @@ This project aims to build a classification model that predicts whether a car cr
    - Implement safety programs
    - They will use this model to identify high risk driving conditions and issue weather related alerts 
 - City of Chicago
-    - Responsible for transportation infrastructure
+    - Responsible for infrastructure
 
 ## Key Questions
 1. What factors contribute to most crashes?
