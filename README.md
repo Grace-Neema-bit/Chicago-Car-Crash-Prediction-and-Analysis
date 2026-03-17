@@ -122,8 +122,7 @@ The analysis helps identify:
 -   Crash patterns linked to severe accidents
 -   Predictive indicators of injury-causing crashes
 
-These insights can help authorities implement preventative measures to
-improve road safety.
+These insights can help authorities implement preventative measures to improve road safety.
 
 ------------------------------------------------------------------------
 
