@@ -1,4 +1,6 @@
 # Chicago-Traffic-Crash-Prediction-and-Analysis
+![gettyimages-157180797-612x612.jpg](attachment:gettyimages-157180797-612x612.jpg)
+
 ## BUSINESS UNDERSTANDING
 ## Problem Statement
 Traffic accidents are a major concern in Chicago. Understanding the conditions that lead to severe crashes will help the Vehicle safety board.
