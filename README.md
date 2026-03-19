@@ -67,7 +67,9 @@ Due to class imbalance, the number of categories was reduced to the most frequen
 
 Visualizations were used to understand patterns
 
-
+![alt text](image-1.png)
+![alt text](image-2.png)
+![alt text](image-3.png)
 ## Feature Selection
 
 The following features were selected for modeling:
